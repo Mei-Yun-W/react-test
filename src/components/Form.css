@@ -1,0 +1,15 @@
+.formpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.textbox {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 20px;
+}

@@ -1,0 +1,25 @@
+.bodyCR{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 50px;
+}
+
+.bodyCR .pic{
+    display: grid;
+    
+}
+
+.bodyCR .pic ul{
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 0 0 ;
+    
+}
+
+
+.bodyCR .pic ul li{
+    list-style: none;
+    text-align: center;
+  
+}
